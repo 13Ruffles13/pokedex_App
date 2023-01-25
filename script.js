@@ -1,5 +1,7 @@
 const pokedexElement = document.getElementById("pokedex");
 
+
+//Lists of elements.
 let results = [];
 
 const limit = 20;
